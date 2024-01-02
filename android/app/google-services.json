@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860759266221",
+    "project_id": "mother-goose-health-app",
+    "storage_bucket": "mother-goose-health-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860759266221:android:2b54fc85bc77dd55674724",
+        "android_client_info": {
+          "package_name": "com.mothergoosehealth.mothergoose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860759266221-045uem6fjmrc2dolrpq194uqsrns8d49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraudyGCSGGIdNZmKYBk2Gp2LrkfXUJT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860759266221-045uem6fjmrc2dolrpq194uqsrns8d49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860759266221-r8hg6op536d0liebgmevkbrq32ncfea8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mothergoosehealth.mothergoose"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
